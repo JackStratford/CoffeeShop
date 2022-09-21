@@ -1,4 +1,4 @@
-public class Coffe {
+public class Coffee {
     private String name;
     private String meat;
     private double price;
@@ -14,7 +14,7 @@ public class Coffe {
     private double addition3Price;
     private double addition4Price;
 
-    public Hamburger(String name, String meat, double price, String breadRollType) {
+    public Coffee(String name, String meat, double price, String breadRollType) {
         this.name = name;
         this.meat = meat;
         this.price = price;
